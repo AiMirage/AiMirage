@@ -1,6 +1,7 @@
 ### Hi there 👋
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
-
+![https://github.com/AiMirage/AiMirage](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+![https://github.com/AiMirage/AiMirage](https://img.shields.io/badge/LinkedIn-000000?logo=LinkedIn)
+![alt text](http://url/to/img.png)
 <!--
 **AiMirage/AiMirage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
