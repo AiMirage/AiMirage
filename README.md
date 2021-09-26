@@ -1,9 +1,13 @@
-### Hi there 👋
-I'm Ali
+### Hi there, I'm Ali 👋
 
 [![](https://img.shields.io/badge/GitHub-blue?logo=GitHub)](https://github.com/AiMirage/AiMirage)
 [![](https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn)](https://www.linkedin.com/in/aliibra395/)
 [![](https://img.shields.io/badge/Gmail-blue?logo=Gmail)](mailto:aliibra395@gmail.com?subject=[GitHub]%20Contact%20)
+
+
+### 👨‍💻 Who Am I:
+---
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
